@@ -10,7 +10,7 @@ para aprofundar as boas práticas com:
 - Testes Unitários
 - Arquitetura MVC
 - DDD e TDD
-E também a integração com o Front-End.
+- Integração com o Front-End
 
 Tecnologias utilizadas:
 - Java 21
